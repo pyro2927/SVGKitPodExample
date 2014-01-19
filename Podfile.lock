@@ -1,0 +1,15 @@
+PODS:
+  - SVGKit (1.x)
+
+DEPENDENCIES:
+  - SVGKit (from `https://github.com/pyro2927/SVGKit.git`, branch `podspec`)
+
+EXTERNAL SOURCES:
+  SVGKit:
+    :branch: podspec
+    :git: https://github.com/pyro2927/SVGKit.git
+
+SPEC CHECKSUMS:
+  SVGKit: 788668f87d4b7773005c411ea68cc8eb1ca1d3d3
+
+COCOAPODS: 0.29.0
